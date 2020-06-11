@@ -1,0 +1,6 @@
+<div id="basket" class="empty">basket: 0 item(s)</div>
+<script>
+	window.addEventListener('updateCart', (evt) => {
+		document.getElementById('basket').innerText = `basket: ${evt.detail.cartCount} item(s)`;
+	});
+</script>
