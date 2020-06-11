@@ -6,7 +6,7 @@
      style="float: left; margin-right: 10px;" />
 
 ### Install dependencies in folder proxy:
-`#arn install`
+`yarn install`
 
 ### Go to `origin` folder and run:
 `python -m SimpleHTTPServer 8000`
