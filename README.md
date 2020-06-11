@@ -5,7 +5,7 @@
      alt="ESI Model"
      style="float: left; margin-right: 10px;" />
 
-### Install dependencies in folder proxy:
+### Install dependencies in proxy folder:
 `yarn install`
 
 ### Go to `origin` folder and run:
