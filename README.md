@@ -17,3 +17,5 @@
 ### Go to `proxy` folder and run:
 `node server`
 
+### Finally you have to open a this url:
+`localhost:3000`
